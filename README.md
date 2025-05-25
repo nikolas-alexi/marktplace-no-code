@@ -33,6 +33,6 @@ The goal was to practice and prove I can go from zero to a functional MVP using 
 
 **Níkolas Alexi** — aspiring no-code builder, focused on creating value through visual development tools.
 
----
+-------------------------------------------------
 
 📩 Feel free to share your feedback or reach out!
